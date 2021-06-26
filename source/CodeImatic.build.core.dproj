@@ -141,7 +141,7 @@
         <DCCReference Include="Plugins\API\API_Output.pas"/>
         <DCCReference Include="Plugins\API\APIBase.pas"/>
         <DCCReference Include="Project.pas"/>
-        <DCCReference Include="ScriptEngine.pas"/>
+        <DCCReference Include="PascalScript.pas"/>
         <DCCReference Include="XMLList.pas"/>
         <DCCReference Include="Runtime.pas"/>
         <DCCReference Include="ProjectConfigLoader.pas"/>
